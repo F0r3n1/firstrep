@@ -21,7 +21,6 @@ label=tk.Label(root, text="Кнопка", font=("Segoe UI Variable Small Semibol
 label.pack()
 
 
-print(font.families())
 root.config(background="pink")
 
 
