@@ -1,0 +1,14 @@
+[
+    {
+        "film": "123",
+        "year": 123,
+        "rating": 123,
+        "description": "123"
+    },
+    {
+        "film": "Побег",
+        "year": 2003,
+        "rating": 2003,
+        "description": "опа"
+    }
+]

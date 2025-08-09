@@ -19,7 +19,7 @@ while True:
             print("Пустой список")
     
     
-    
+
     with open("C:\\Users\\f0r3n\\Desktop\\ваэно\\pyproject\\firstrep\\dif_lvl\\normal\\toDo\\toDo.json", "r", encoding="utf-8") as file:
         toDo_list = json.load(file)
 
